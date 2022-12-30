@@ -20,7 +20,7 @@ This will install the nvm script to your user account. To use it, you must first
    Saldra algo similar a:
    
    Output
-. . .
+'''
        v16.11.1
        v16.12.0
        v16.13.0   (LTS: Gallium)
@@ -36,7 +36,7 @@ This will install the nvm script to your user account. To use it, you must first
         v17.4.0
         v17.5.0
         v17.6.0
-    
+   ''' 
     Instalais una versión preferiblement LTS y mayor que 14: 
     $ nvm install v16.14.0
     
