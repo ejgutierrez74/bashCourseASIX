@@ -1,0 +1,13 @@
+## 1 - Descargar e instalar cualquier programa de JetBrains ( Pycharm, PhpStorm, Webstorm, IntelliJDea ...:
+
+Para seguir el tutorial lo hare con Pycharm 
+   
+
+## 2 - Crear una carpeta en el sistema ( nuestro proyecto) y poner en su interior un fichero ( nuestro script) por ejemplo: test.sh
+
+   ## 3 - Abrir Pycharm, y abrir nuestro proyecto ( la carpeta creada en el paso anterior)
+   
+   
+## 3 - Instalar el plugin ShellCheck
+
+Evidentemente este paso solo lo haremos una vez, una vez tengamos instalado el plugin, no hace falta instalarlo cada vez.
